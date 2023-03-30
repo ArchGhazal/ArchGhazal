@@ -33,7 +33,6 @@
 
 <a href="https://github.com/ArchGhazal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArchGhazal&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArchGhazal&theme=buefy&layout=compact" />
 </a>
 
 <br/>
