@@ -38,7 +38,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
+
     <a href="https://www.linkedin.com/in/ghazal-alassel-28184a9b/" style="text-align:left"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ghazal%20Alassil-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="mailto:ghazalalassil@gmail.com" style="text-align:center"><img alt="Email" src="https://img.shields.io/badge/Email-ghazalalassil%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
