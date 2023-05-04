@@ -18,11 +18,13 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow)
+  ![Spark Engine](https://img.shields.io/badge/-Spark%20Engine-333333?style=flat&logo=apache-spark)
 - 🔧 &nbsp;
   ![DBeaver](https://img.shields.io/badge/-DBeaver-333333?style=flat&logo=dbeaver)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 📓 &nbsp;
   ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+  [![Google Colab](https://img.shields.io/badge/-Google%20Colab-333333?style=flat&logo=google-colab)](https://colab.research.google.com/)
 - 🖥 &nbsp;
   ![3D Studio Max](https://img.shields.io/badge/-3D%20Studio%20Max-333333?style=flat&logo=3ds-max)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
