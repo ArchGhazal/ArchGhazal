@@ -1,7 +1,7 @@
 
 <h2> Hey there! I'm Ghazal.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Passionate about exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied architectural design at Arab European University and trained as a data scientist.
